@@ -2,10 +2,10 @@
 
 # Cubo Gelatinoso - Aprendizado de Máquina
 Trabalho da disciplina de Aprendizado de Máquina, ministrada pelo professor Dr. Daniel Roberto Cassar.
-Ilum Escola de Ciência
+<br> Ilum Escola de Ciência
 
 **Aluno**: Caio Guimarães Marino - T26
-Este repositório de aprendizado de máquina contém a captura da Criatura Lendária Cubo Gelatinoso, do Reino de Lumi.
+<br> Este repositório de aprendizado de máquina contém a captura da Criatura Lendária Cubo Gelatinoso, do Reino de Lumi.
 
 ## **Objetivo**
 Escolher um conjunto de dados e estudar o desempenho de modelos de k-vizinhos mais próximos (KNN) induzidos a partir dele, considerando diferentes combinações de hiperparâmetros, utilizando o `scikit-learn`.
@@ -14,11 +14,11 @@ Neste trabalho, o modelo KNN foi utilizado para prever o atributo attack de Pok�
 
 ### **Guia de arquivos no repositório**
 Neste repositório, o arquivo `Cubo Gelatinoso.ipynb` é o notebook Jupyter com todo o desenvolvimento do trabalho.
-`dataset_pokemon_simplificado.csv` é o conjunto de dados utilizados (versão simplificada).
+<br> `dataset_pokemon_simplificado.csv` é o conjunto de dados utilizados (versão simplificada).
 
 ### **Sobre o dataset**
 O dataset utilizado contém informações de 801 Pokémon (gerações 1 a 7), reduzido para as colunas relevantes à análise: type1, type2, hp, defense, sp_attack, sp_defense, speed, generation e attack (target).
-Fonte original: https://www.kaggle.com/datasets/rounakbanik/pokemon.
+<br> Fonte original: https://www.kaggle.com/datasets/rounakbanik/pokemon.
 
 ### **Uso de IA**
 Este trabalho contou com o apoio do Claude (Anthropic) em diferentes etapas do processo. Detalhes completos estão descritos na seção "Descrição do uso de IA neste trabalho", dentro do notebook.
